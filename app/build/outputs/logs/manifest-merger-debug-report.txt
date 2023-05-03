@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:2:1-29:12
+ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:2:1-28:12
 MERGED from [androidx.databinding:viewbinding:8.0.0] C:\Users\marcu\.gradle\caches\transforms-3\3834b151873ae1ac36c737ef66101faa\transformed\viewbinding-8.0.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.ui:ui-tooling:1.3.0] C:\Users\marcu\.gradle\caches\transforms-3\58e26b1f3fe74d1a3376cb88f3378f38\transformed\ui-tooling-1.3.0\AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.activity:activity-compose:1.5.1] C:\Users\marcu\.gradle\caches\transforms-3\ba7354d80fc14ee5f726f1f176819b0f\transformed\activity-compose-1.5.1\AndroidManifest.xml:17:1-24:12
@@ -85,27 +85,27 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\marcu\.gradle\caches\transform
 MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\marcu\.gradle\caches\transforms-3\afe603d1d346d57400edda5ad69338e0\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\marcu\.gradle\caches\transforms-3\648679637d8de5ea201ebd7ce4f16283\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\marcu\.gradle\caches\transforms-3\bba9cc31d3f28aeae86731b79edfdf7a\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
-		INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:2:1-29:12
-		INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:2:1-29:12
-		INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:2:1-29:12
-		INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:5:5-27:19
+ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:5:5-26:19
 MERGED from [androidx.compose.ui:ui-tooling:1.3.0] C:\Users\marcu\.gradle\caches\transforms-3\58e26b1f3fe74d1a3376cb88f3378f38\transformed\ui-tooling-1.3.0\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-tooling:1.3.0] C:\Users\marcu\.gradle\caches\transforms-3\58e26b1f3fe74d1a3376cb88f3378f38\transformed\ui-tooling-1.3.0\AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.material:material:1.5.0] C:\Users\marcu\.gradle\caches\transforms-3\5ca951617f98692707192a0fd5525e27\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
@@ -131,47 +131,47 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\marcu\.gradle\cach
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] C:\Users\marcu\.gradle\caches\transforms-3\395e81acb4e1e79a61fd63dbf4b48ec0\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:10:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:8:9-54
+		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:8:9-54
 	android:roundIcon
-		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:11:9-54
 	tools:targetApi
-		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:14:9-29
+		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:14:9-29
 	android:icon
-		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:13:9-46
+		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:13:9-46
 	android:dataExtractionRules
-		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:7:9-65
+		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:7:9-65
 activity#com.example.tempfile.MainActivity2
-ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:15:9-25:20
+ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:15:9-25:20
 	android:label
-		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:18:13-57
+		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:18:13-57
 	android:exported
-		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:17:13-36
+		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:17:13-36
 	android:theme
-		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:19:13-57
+		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:19:13-57
 	android:name
-		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:16:13-42
+		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:16:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:21:13-24:29
+ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:22:17-69
+ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:22:25-66
+		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:23:17-77
+ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml:23:27-74
+		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml:23:27-74
 uses-sdk
-INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:8.0.0] C:\Users\marcu\.gradle\caches\transforms-3\3834b151873ae1ac36c737ef66101faa\transformed\viewbinding-8.0.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.databinding:viewbinding:8.0.0] C:\Users\marcu\.gradle\caches\transforms-3\3834b151873ae1ac36c737ef66101faa\transformed\viewbinding-8.0.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-tooling:1.3.0] C:\Users\marcu\.gradle\caches\transforms-3\58e26b1f3fe74d1a3376cb88f3378f38\transformed\ui-tooling-1.3.0\AndroidManifest.xml:20:5-44
@@ -334,16 +334,16 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\marcu\.gradle\ca
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\marcu\.gradle\caches\transforms-3\648679637d8de5ea201ebd7ce4f16283\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\marcu\.gradle\caches\transforms-3\bba9cc31d3f28aeae86731b79edfdf7a\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\marcu\.gradle\caches\transforms-3\bba9cc31d3f28aeae86731b79edfdf7a\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-3---eventhandling-MarcusVincentSiah\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\marcu\AndroidStudioProjects\mad23-practical-2---activitylifecycle-MarcusVincentSiah\app\src\main\AndroidManifest.xml
 activity#androidx.compose.ui.tooling.PreviewActivity
 ADDED from [androidx.compose.ui:ui-tooling:1.3.0] C:\Users\marcu\.gradle\caches\transforms-3\58e26b1f3fe74d1a3376cb88f3378f38\transformed\ui-tooling-1.3.0\AndroidManifest.xml:23:9-25:39
 	android:exported

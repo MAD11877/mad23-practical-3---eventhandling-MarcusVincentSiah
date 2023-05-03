@@ -31,6 +31,13 @@ public class MainActivity2 extends AppCompatActivity {
             public void onClick(View view) {
                 user.followed = !user.followed;
                 btn.setText((user.followed)?"Follow":"Unfollow");
+
+                if (user.followed == false){
+                    Toast.makeText(getApplicationContext(), "Followed", Toast.LENGTH_SHORT).show();
+                }
+                else if (user.followed == true){
+                    Toast.makeText(getApplicationContext(), "Unfollow", Toast.LENGTH_SHORT).show();
+                }
 //                if (variable[0] == false){
 //                    btn.setText("Unfollow");
 //                    variable[0] = true;

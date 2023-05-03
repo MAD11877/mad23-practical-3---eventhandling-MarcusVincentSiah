@@ -4,7 +4,7 @@
             "outputFile": "com.example.tempfile.app-mergeDebugResources-65:/values-w600dp-v13/values-w600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\marcu\\AndroidStudioProjects\\mad23-practical-3---eventhandling-MarcusVincentSiah\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "source": "C:\\Users\\marcu\\AndroidStudioProjects\\mad23-practical-2---activitylifecycle-MarcusVincentSiah\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "6",

@@ -2,5 +2,9 @@
     {
         "merged": "com.example.tempfile.app-mergeDebugResources-66:/layout/activity_main.xml",
         "source": "com.example.tempfile.app-main-69:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\8.0\\com.example.tempfile.app-mergeDebugResources-66:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\8.0\\com.example.tempfile.app-main-69:\\layout\\activity_main.xml"
     }
 ]

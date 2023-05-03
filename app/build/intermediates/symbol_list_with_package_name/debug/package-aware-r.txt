@@ -3384,6 +3384,7 @@ string selected
 string status_bar_notification_info_overflow
 string tab
 string template_percent
+string title_activity_list
 string title_activity_main2
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light

@@ -24,6 +24,7 @@ string lorem_ipsum
 string next
 string previous
 string second_fragment_label
+string title_activity_list
 string title_activity_main2
 style Base.Theme.TempFile
 style Theme.TempFile
