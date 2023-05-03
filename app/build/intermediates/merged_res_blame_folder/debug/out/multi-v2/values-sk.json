@@ -4,7 +4,7 @@
             "outputFile": "com.example.tempfile.app-mergeDebugResources-65:/values-sk/values-sk.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\marcu\\.gradle\\caches\\transforms-3\\dfc0ed524fce22dad4db9890ec72d919\\transformed\\navigation-ui-2.5.2\\res\\values-sk\\values-sk.xml",
+                    "source": "C:\\Users\\marcu\\.gradle\\caches\\transforms-3\\0570104f99a9f57a6a1496c744b24d97\\transformed\\navigation-ui-2.5.3\\res\\values-sk\\values-sk.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

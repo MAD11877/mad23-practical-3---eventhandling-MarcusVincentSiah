@@ -22,7 +22,12 @@
         android:testOnly="true"
         android:theme="@style/Theme.TempFile" >
         <activity
-            android:name="com.example.tempfile.MainActivity2"
+            android:name="com.example.tempfile.MessageGroup"
+            android:exported="false"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/Theme.AppCompat.Light" />
+        <activity
+            android:name="com.example.tempfile.ListActivity"
             android:exported="true"
             android:label="@string/title_activity_main2"
             android:theme="@style/Theme.AppCompat.Light" >
@@ -33,10 +38,20 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="androidx.compose.ui.tooling.PreviewActivity"
-            android:exported="true" />
+            android:name="com.example.tempfile.MainActivity2"
+            android:exported="true"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/Theme.AppCompat.Light" >
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
         <activity
-            android:name="androidx.activity.ComponentActivity"
+            android:name="androidx.compose.ui.tooling.PreviewActivity"
             android:exported="true" />
 
         <uses-library
@@ -45,6 +60,10 @@
         <uses-library
             android:name="androidx.window.sidecar"
             android:required="false" />
+
+        <activity
+            android:name="androidx.activity.ComponentActivity"
+            android:exported="true" />
 
         <provider
             android:name="androidx.startup.InitializationProvider"

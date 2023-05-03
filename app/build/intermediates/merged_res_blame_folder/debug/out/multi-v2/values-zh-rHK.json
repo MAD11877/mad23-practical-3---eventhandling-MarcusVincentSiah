@@ -21,23 +21,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\marcu\\.gradle\\caches\\transforms-3\\dfc0ed524fce22dad4db9890ec72d919\\transformed\\navigation-ui-2.5.2\\res\\values-zh-rHK\\values-zh-rHK.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,154",
-                        "endColumns": "98,99",
-                        "endOffsets": "149,249"
-                    },
-                    "to": {
-                        "startLines": "96,97",
-                        "startColumns": "4,4",
-                        "startOffsets": "7284,7383",
-                        "endColumns": "98,99",
-                        "endOffsets": "7378,7478"
-                    }
-                },
-                {
                     "source": "C:\\Users\\marcu\\.gradle\\caches\\transforms-3\\395e81acb4e1e79a61fd63dbf4b48ec0\\transformed\\core-1.8.0\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
                         "startLines": "2",
@@ -105,6 +88,23 @@
                         "endLines": "5,33,34,35,36,44,46,47,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,102",
                         "endColumns": "12,66,89,106,72,61,77,58,57,77,56,55,58,57,53,85,55,57,53,64,92,73,77,89,62,62,76,66,65,63,68,74,60,70,66,59,79,62,82,84,73,64,75,47,63,75,77,61,63,62,79,74,75,75,68",
                         "endOffsets": "247,2875,2965,3072,3145,3755,3904,3963,4172,4250,4307,4363,4422,4480,4534,4620,4676,4734,4788,4853,4946,5020,5098,5188,5251,5314,5391,5458,5524,5588,5657,5732,5793,5864,5931,5991,6071,6134,6217,6302,6376,6441,6517,6565,6629,6705,6783,6845,6909,6972,7052,7127,7203,7279,7825"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\marcu\\.gradle\\caches\\transforms-3\\0570104f99a9f57a6a1496c744b24d97\\transformed\\navigation-ui-2.5.3\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,154",
+                        "endColumns": "98,99",
+                        "endOffsets": "149,249"
+                    },
+                    "to": {
+                        "startLines": "96,97",
+                        "startColumns": "4,4",
+                        "startOffsets": "7284,7383",
+                        "endColumns": "98,99",
+                        "endOffsets": "7378,7478"
                     }
                 }
             ]

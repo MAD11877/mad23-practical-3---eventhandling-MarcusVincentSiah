@@ -2,6 +2,7 @@ package com.example.tempfile;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -49,5 +50,23 @@ public class MainActivity2 extends AppCompatActivity {
 
             }
         });
+
+        //To edit the textView to a new message which was created in ListActivity
+        Intent receivingEnd = getIntent();
+        String message = receivingEnd.getStringExtra("New_Text");
+
+        TextView textView = findViewById(R.id.editTextText);
+        textView.setText(message);
+
+        //event listener for message button
+        Button myButton = findViewById(R.id.button2);
+        myButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity2.this, MessageGroup.class);
+                startActivity(intent);
+            }
+        });
+
     }
 }

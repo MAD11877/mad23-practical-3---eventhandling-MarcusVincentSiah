@@ -12,16 +12,16 @@
         "source": "C:\\Users\\marcu\\.gradle\\daemon\\8.0\\com.example.tempfile.app-main-69:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.tempfile.app-merged_res-67:/layout_activity_main.xml.flat",
-        "source": "com.example.tempfile.app-main-69:/layout/activity_main.xml"
-    },
-    {
         "merged": "C:\\Users\\marcu\\.gradle\\daemon\\8.0\\com.example.tempfile.app-merged_res-67:\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\marcu\\.gradle\\daemon\\8.0\\com.example.tempfile.app-main-69:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\marcu\\.gradle\\daemon\\8.0\\com.example.tempfile.app-merged_res-67:\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\marcu\\.gradle\\daemon\\8.0\\com.example.tempfile.app-main-69:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\8.0\\com.example.tempfile.app-merged_res-67:\\layout_activity_message_group.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\8.0\\com.example.tempfile.app-main-69:\\layout\\activity_message_group.xml"
     },
     {
         "merged": "C:\\Users\\marcu\\.gradle\\daemon\\8.0\\com.example.tempfile.app-merged_res-67:\\mipmap-xhdpi_ic_launcher.webp.flat",
@@ -44,8 +44,20 @@
         "source": "C:\\Users\\marcu\\.gradle\\daemon\\8.0\\com.example.tempfile.app-main-69:\\drawable\\ic_launcher_background.xml"
     },
     {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\8.0\\com.example.tempfile.app-merged_res-67:\\layout_fragment_group2.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\8.0\\com.example.tempfile.app-main-69:\\layout\\fragment_group2.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\8.0\\com.example.tempfile.app-merged_res-67:\\layout_fragment_group1.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\8.0\\com.example.tempfile.app-main-69:\\layout\\fragment_group1.xml"
+    },
+    {
         "merged": "C:\\Users\\marcu\\.gradle\\daemon\\8.0\\com.example.tempfile.app-merged_res-67:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\marcu\\.gradle\\daemon\\8.0\\com.example.tempfile.app-main-69:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcu\\.gradle\\daemon\\8.0\\com.example.tempfile.app-merged_res-67:\\layout_activity_list.xml.flat",
+        "source": "C:\\Users\\marcu\\.gradle\\daemon\\8.0\\com.example.tempfile.app-main-69:\\layout\\activity_list.xml"
     },
     {
         "merged": "C:\\Users\\marcu\\.gradle\\daemon\\8.0\\com.example.tempfile.app-merged_res-67:\\layout_activity_main.xml.flat",
@@ -66,6 +78,10 @@
     {
         "merged": "C:\\Users\\marcu\\.gradle\\daemon\\8.0\\com.example.tempfile.app-merged_res-67:\\xml_backup_rules.xml.flat",
         "source": "C:\\Users\\marcu\\.gradle\\daemon\\8.0\\com.example.tempfile.app-main-69:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.tempfile.app-merged_res-67:/layout_activity_message_group.xml.flat",
+        "source": "com.example.tempfile.app-main-69:/layout/activity_message_group.xml"
     },
     {
         "merged": "C:\\Users\\marcu\\.gradle\\daemon\\8.0\\com.example.tempfile.app-merged_res-67:\\navigation_nav_graph.xml.flat",

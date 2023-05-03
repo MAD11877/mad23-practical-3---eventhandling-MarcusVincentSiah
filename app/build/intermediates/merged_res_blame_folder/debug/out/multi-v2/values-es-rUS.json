@@ -4,23 +4,6 @@
             "outputFile": "com.example.tempfile.app-mergeDebugResources-65:/values-es-rUS/values-es-rUS.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\marcu\\.gradle\\caches\\transforms-3\\dfc0ed524fce22dad4db9890ec72d919\\transformed\\navigation-ui-2.5.2\\res\\values-es-rUS\\values-es-rUS.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,170",
-                        "endColumns": "114,127",
-                        "endOffsets": "165,293"
-                    },
-                    "to": {
-                        "startLines": "96,97",
-                        "startColumns": "4,4",
-                        "startOffsets": "8216,8331",
-                        "endColumns": "114,127",
-                        "endOffsets": "8326,8454"
-                    }
-                },
-                {
                     "source": "C:\\Users\\marcu\\.gradle\\caches\\transforms-3\\395e81acb4e1e79a61fd63dbf4b48ec0\\transformed\\core-1.8.0\\res\\values-es-rUS\\values-es-rUS.xml",
                     "from": {
                         "startLines": "2",
@@ -54,6 +37,23 @@
                         "endLines": "5,33,34,35,36,44,46,47,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,102",
                         "endColumns": "12,85,101,127,80,64,94,69,62,92,71,62,73,63,55,117,57,61,55,79,133,88,80,110,80,79,89,66,65,75,81,87,72,76,69,76,88,73,93,101,71,80,103,52,66,92,88,61,63,62,110,96,101,97,82",
                         "endOffsets": "278,3080,3182,3310,3391,4078,4250,4320,4558,4651,4723,4786,4860,4924,4980,5098,5156,5218,5274,5354,5488,5577,5658,5769,5850,5930,6020,6087,6153,6229,6311,6399,6472,6549,6619,6696,6785,6859,6953,7055,7127,7208,7312,7365,7432,7525,7614,7676,7740,7803,7914,8011,8113,8211,8844"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\marcu\\.gradle\\caches\\transforms-3\\0570104f99a9f57a6a1496c744b24d97\\transformed\\navigation-ui-2.5.3\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,170",
+                        "endColumns": "114,127",
+                        "endOffsets": "165,293"
+                    },
+                    "to": {
+                        "startLines": "96,97",
+                        "startColumns": "4,4",
+                        "startOffsets": "8216,8331",
+                        "endColumns": "114,127",
+                        "endOffsets": "8326,8454"
                     }
                 },
                 {

@@ -4,23 +4,6 @@
             "outputFile": "com.example.tempfile.app-mergeDebugResources-65:/values-km/values-km.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\marcu\\.gradle\\caches\\transforms-3\\dfc0ed524fce22dad4db9890ec72d919\\transformed\\navigation-ui-2.5.2\\res\\values-km\\values-km.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,160",
-                        "endColumns": "104,104",
-                        "endOffsets": "155,260"
-                    },
-                    "to": {
-                        "startLines": "96,97",
-                        "startColumns": "4,4",
-                        "startOffsets": "8077,8182",
-                        "endColumns": "104,104",
-                        "endOffsets": "8177,8282"
-                    }
-                },
-                {
                     "source": "C:\\Users\\marcu\\.gradle\\caches\\transforms-3\\5ca951617f98692707192a0fd5525e27\\transformed\\material-1.5.0\\res\\values-km\\values-km.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59",
@@ -37,6 +20,23 @@
                         "endLines": "5,33,34,35,36,44,46,47,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,102",
                         "endColumns": "12,79,99,111,79,64,93,69,61,86,64,58,64,60,56,118,57,60,56,70,129,85,77,107,74,70,96,66,65,79,89,85,78,76,69,74,87,69,99,98,73,75,106,53,72,90,95,61,63,62,98,97,91,99,82",
                         "endOffsets": "269,3037,3137,3249,3329,4000,4172,4242,4471,4558,4623,4682,4747,4808,4865,4984,5042,5103,5160,5231,5361,5447,5525,5633,5708,5779,5876,5943,6009,6089,6179,6265,6344,6421,6491,6566,6654,6724,6824,6923,6997,7073,7180,7234,7307,7398,7494,7556,7620,7683,7782,7880,7972,8072,8667"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\marcu\\.gradle\\caches\\transforms-3\\0570104f99a9f57a6a1496c744b24d97\\transformed\\navigation-ui-2.5.3\\res\\values-km\\values-km.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,160",
+                        "endColumns": "104,104",
+                        "endOffsets": "155,260"
+                    },
+                    "to": {
+                        "startLines": "96,97",
+                        "startColumns": "4,4",
+                        "startOffsets": "8077,8182",
+                        "endColumns": "104,104",
+                        "endOffsets": "8177,8282"
                     }
                 },
                 {

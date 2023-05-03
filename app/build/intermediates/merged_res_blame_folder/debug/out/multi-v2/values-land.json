@@ -14,13 +14,13 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\marcu\\AndroidStudioProjects\\mad23-practical-2---activitylifecycle-MarcusVincentSiah\\app\\src\\main\\res\\values-land\\dimens.xml",
+                    "source": "C:\\Users\\marcu\\AndroidStudioProjects\\mad23-practical-3---eventhandling-MarcusVincentSiah\\app\\src\\main\\res\\values-land\\dimens.xml",
                     "from": {
                         "startLines": "1",
-                        "startColumns": "6",
-                        "startOffsets": "18",
-                        "endColumns": "43",
-                        "endOffsets": "55"
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "41",
+                        "endOffsets": "53"
                     },
                     "to": {
                         "startLines": "5",

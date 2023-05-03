@@ -38,6 +38,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\marcu\\.gradle\\caches\\transforms-3\\0570104f99a9f57a6a1496c744b24d97\\transformed\\navigation-ui-2.5.3\\res\\values-hi\\values-hi.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,159",
+                        "endColumns": "103,113",
+                        "endOffsets": "154,268"
+                    },
+                    "to": {
+                        "startLines": "96,97",
+                        "startColumns": "4,4",
+                        "startOffsets": "8078,8182",
+                        "endColumns": "103,113",
+                        "endOffsets": "8177,8291"
+                    }
+                },
+                {
                     "source": "C:\\Users\\marcu\\.gradle\\caches\\transforms-3\\395e81acb4e1e79a61fd63dbf4b48ec0\\transformed\\core-1.8.0\\res\\values-hi\\values-hi.xml",
                     "from": {
                         "startLines": "2",
@@ -88,23 +105,6 @@
                         "endLines": "5,33,34,35,36,44,46,47,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,102",
                         "endColumns": "12,80,106,131,82,64,93,68,58,84,62,57,64,60,60,105,57,59,58,69,115,78,79,103,74,75,96,66,65,69,76,85,67,75,80,77,85,86,96,98,73,69,103,53,66,89,91,61,63,62,104,107,100,108,78",
                         "endOffsets": "259,3022,3129,3261,3344,4021,4196,4265,4499,4584,4647,4705,4770,4831,4892,4998,5056,5116,5175,5245,5361,5440,5520,5624,5699,5775,5872,5939,6005,6075,6152,6238,6306,6382,6463,6541,6627,6714,6811,6910,6984,7054,7158,7212,7279,7369,7461,7523,7587,7650,7755,7863,7964,8073,8681"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\marcu\\.gradle\\caches\\transforms-3\\dfc0ed524fce22dad4db9890ec72d919\\transformed\\navigation-ui-2.5.2\\res\\values-hi\\values-hi.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,159",
-                        "endColumns": "103,113",
-                        "endOffsets": "154,268"
-                    },
-                    "to": {
-                        "startLines": "96,97",
-                        "startColumns": "4,4",
-                        "startOffsets": "8078,8182",
-                        "endColumns": "103,113",
-                        "endOffsets": "8177,8291"
                     }
                 }
             ]
