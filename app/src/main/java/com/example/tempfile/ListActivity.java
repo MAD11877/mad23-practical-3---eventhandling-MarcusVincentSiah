@@ -9,12 +9,17 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
 
+import java.util.ArrayList;
+import java.util.Random;
+
 public class ListActivity extends AppCompatActivity {
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_list);
+
+        String name = generateNum();
 
         //Alert Method/Function
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
@@ -24,7 +29,7 @@ public class ListActivity extends AppCompatActivity {
         builder.setPositiveButton("VIEW", new DialogInterface.OnClickListener(){
             public void onClick(DialogInterface dialog, int id){
                 Intent intent = new Intent(ListActivity.this, MainActivity2.class);
-                intent.putExtra("New_Text", "MAD 1739039545");
+                intent.putExtra("New_Text", name);
                 startActivity(intent); //changes to the destination activity
             }
         });
@@ -45,5 +50,18 @@ public class ListActivity extends AppCompatActivity {
             }
         });
 
+    }
+
+    private String generateNum() {
+        String name = "";
+
+        Random random = new Random();
+
+        long min1 = 100000000L;  // Minimum 9-digit number
+        long max1 = 9999999999L; // Maximum 10-digit number
+        long randomNumber1 = min1 + ((long) (random.nextDouble() * (max1 - min1)));
+        name = "MAD " + randomNumber1;
+
+        return name;
     }
 }
